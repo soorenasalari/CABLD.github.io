@@ -1,4 +1,4 @@
-# iNdra Page Template: This is a Website / GitHub Page Template for Research Papers / Academic Papers [Free] [v1]
+# CABLD: Contrast-Agnostic Brain Landmark Detection with Consistency-Based Regularization
 
 This repository contains the website for our paper on brain landmark detection
 
