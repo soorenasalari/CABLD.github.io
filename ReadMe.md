@@ -8,13 +8,13 @@ Anatomical landmark detection in medical images is essential for various clinica
 
 ## Authors
 
-Step 1: Fork this repo or download this repo
+Soorena Salari
 
-Step 2: Edit index.html file (Comments included)
+Arash Harirpoush
 
-Step 3: Create your own repo for your research in your GitHub account and upload files
+Hassan Rivaz
 
-Step 4: Creare a page for that (Repo Setting --> Pages --> Select Brach and Save then GitHub Action will run and give Page URL for your page)
+Yiming Xiao
 
 ## index.html File Edit Help
 
